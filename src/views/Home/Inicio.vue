@@ -1,6 +1,6 @@
 <template>
   <div class="w-full h-[35rem] bg-white flex justify-center items-center
-  md:h-[45rem]
+  md:h-[40rem]
   lg:space-x-[7rem]
   ">
 

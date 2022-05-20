@@ -1,6 +1,6 @@
 <template>
-  <div class="w-full h-[60rem] bg-white flex flex-col py-10 items-center
-  md:h-[45rem]
+  <div class="w-full h-[46rem] bg-white flex flex-col py-10 items-center
+  md:h-[30rem]
   ">
 
     <h1 class="text-3xl font-bold text-gray-700 ">Habilidades</h1>
@@ -21,7 +21,55 @@
 
   </div>
 
-  <div>
+  <div class="w-full h-[45rem] bg-white flex flex-col py-10 justify-center items-center
+  md:h-[30rem] md:flex-row md:space-x-20
+  ">
+
+    <div class="flex flex-col">
+
+      <h1 class="text-[1.2rem] text-gray-700 font-bold my-5 text-center">Experiência profissional</h1>
+
+      <div class="flex flex-col bg-[#FFC727] w-[15rem] rounded-lg p-3 shadow">    
+        <ul>
+          <li class="font-bold text-white" >Inbrands S.A.</li>
+          <li class="text-white" >Cargo: Jovem aprendiz</li>
+          <li class="text-white" >Ano: 2019 - 2020</li>
+        </ul>
+        <ul>
+          <li class="font-bold text-white" >NTL Nova Tecnologia LTDA</li>
+          <li class="text-white" >Cargo: Jovem aprendiz</li>
+          <li class="text-white" >Ano: 2020 - 2021</li>
+        </ul>
+        <ul>
+          <li class="font-bold text-white" >NTL Nova Tecnologia LTDA</li>
+          <li class="text-white" >Cargo: Programador PHP Jr</li>
+          <li class="text-white" >Emprego atual</li>
+        </ul>
+      </div>
+    </div>
+
+     <div class="flex flex-col">
+
+      <h1 class="text-[1.2rem] text-gray-700 font-bold my-5 text-center">Experiência acadêmica</h1>
+
+      <div class="flex flex-col bg-[#FFC727] w-[15rem] rounded-lg p-3 shadow">    
+        <ul>
+          <li class="font-bold text-white" >Inbrands S.A.</li>
+          <li class="text-white" >Cargo: Jovem aprendiz</li>
+          <li class="text-white" >Ano: 2019 - 2020</li>
+        </ul>
+        <ul>
+          <li class="font-bold text-white" >NTL Nova Tecnologia LTDA</li>
+          <li class="text-white" >Cargo: Jovem aprendiz</li>
+          <li class="text-white" >Ano: 2020 - 2021</li>
+        </ul>
+        <ul>
+          <li class="font-bold text-white" >NTL Nova Tecnologia LTDA</li>
+          <li class="text-white" >Cargo: Programador PHP Jr</li>
+          <li class="text-white" >Emprego atual</li>
+        </ul>
+      </div>
+    </div>
 
   </div>
   
