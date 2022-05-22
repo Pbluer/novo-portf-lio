@@ -7,8 +7,8 @@
   <img src="@/assets/sobre.svg" class="mb-[10rem] w-[20rem]
     md:hidden
     lg:w-[25rem] lg:mb-0 lg:mx-[6rem]
-    lg:block
-  ">
+    lg:block"
+  >
 
   <div class="text-center">
     <h1 class="text-3xl font-bold text-[#455A64]

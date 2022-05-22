@@ -1,10 +1,24 @@
 <template>
-  <div class="w-full h-[35rem] bg-white flex justify-center items-center
+  <div class="w-full h-[50rem] bg-white flex flex-col space-y-10 justify-center items-center
   md:h-[40rem]
+  md:flex-row
   lg:space-x-[7rem]
   ">
 
-  <img src="@/assets/imagemUm.svg" class="hidden
+  <img v-motion :initial="{
+    opacity:0,
+    y: 10,
+    x:100,
+    scale:1
+  }"
+    :enter="{
+      opacity:1,
+      y:0,
+      x:0,
+    }"    
+    :delay="400"
+   src="@/assets/imagemUm.svg" class="
+   w-72
   md:w-96
   lg:block
   ">
