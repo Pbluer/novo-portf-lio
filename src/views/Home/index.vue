@@ -3,6 +3,7 @@
     <Inicio />
     <Sobre />  
     <Habilidades />  
+    <Projetos />  
     <Footer />  
   </div>
 
@@ -12,6 +13,7 @@
 import Inicio from "./Inicio.vue"
 import Sobre from "./Sobre.vue"
 import Habilidades from "./Habilidades.vue"
+import Projetos from "./Projetos.vue"
 import Footer from "./Footer.vue"
 
 export default {
@@ -20,6 +22,7 @@ export default {
     Inicio,
     Sobre,
     Habilidades,
+    Projetos,
     Footer
   }
 }

@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-[46rem] bg-white flex flex-col py-10 items-center
+  <div class="w-full h-[46rem] bg-white flex flex-col pt-10 items-center
   md:h-[30rem]
   ">
 
@@ -21,7 +21,7 @@
 
   </div>
 
-  <div class="w-full h-[45rem] bg-white flex flex-col py-10 justify-center 
+  <div class="w-full h-[45rem] bg-white flex flex-col pt-10 justify-center 
   md:h-[30rem] md:flex-row md:space-x-20 
   ">
 
