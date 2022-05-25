@@ -47,8 +47,12 @@
         </ul>
       </div>
 
-      <a href="curriculo.pdf" download="curriculo-ramon-vasconcelos"
-       class="bg-[#FFC727] rounded-lg shadow hover:bg-yellow-500 text-center font-bold text-white mt-5 w-40"> Download CV </a>
+        <a href="curriculo.pdf" download="curriculo-ramon-vasconcelos"
+       class="bg-[#FFC727] h-[2rem] flex justify-center items-center rounded-lg shadow hover:bg-yellow-500 text-center font-bold  text-white mt-5 w-40  space-x-4"> 
+       <p>
+         Download CV
+       </p>
+       <img src="@/assets/icon/download.svg" class="w-4 animate-bounce " alt="download"> </a>
     </div>
 
      <div class="flex flex-col  items-center">

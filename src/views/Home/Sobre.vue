@@ -15,7 +15,9 @@
       md:text-4xl md:mb-4
       ">Ramon Vasconcelos</h1>
     
-    <h3 class="font-bold text-white mx-10 md:mx-0 ">
+    <h3 class="font-bold text-white mx-10
+      md:mx-0 md:w-[30rem]
+      lg:w-[30rem]">
       Estou cursando o último semestre da faculdade de tecnologia em Análise e Desenvolvimento de Sistema pela faculdade Unopar e
       atualmente trabalho como programador Fullstrack PHP em uma empresa com sede no Rio de Janeiro. &nbsp;Estudo desenvolvimento Frontend de forma auto-didata desde o meu primeiro "Hello World".</h3>
   </div> 
