@@ -27,7 +27,7 @@
                 </div>               
             </button>
             
-            <button @click="goinTo('https://affectionate-curie-8e8552.netlify.app')" class="w-[22rem] h-28 p-3 flex justify-center items-center flex-row bg-white rounded-2xl shadow-lg">               
+            <button class="w-[22rem] h-28 p-3 flex justify-center items-center flex-row bg-white rounded-2xl shadow-lg">               
                <div class="">
                     <img src="@/assets/icon/spinner.svg" class="w-16 animate-spin-slow">
                 </div>               
