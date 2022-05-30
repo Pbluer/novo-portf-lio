@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#FFC727] h-[40rem] flex flex-col items-center py-10">
+    <div class="bg-[#FFC727] flex flex-col items-center py-10">
 
         <h1 class="text-3xl font-bold text-gray-700">Projetos</h1>
         
