@@ -16,14 +16,14 @@
             <button @click="goinTo('https://geekvest.netlify.app')" class="w-[22rem] h-28 p-3 flex flex-row bg-white rounded-2xl shadow-lg">               
                <div class="w-[20rem] text-left space-y-2">
                     <h3 class="font-bold text-[#3F3F46] flex flex-row space-x-2 "><span>GeekVest</span>  <img src="@/assets/icon/link.svg" alt="link" class="w-4"> </h3>
-                    <p class="text-[#3F3F46]">Aplicação desenvolvida como estudo do fremework Vue ( não finalizado )</p>
+                    <p class="text-[#3F3F46]">Aplicação desenvolvida como estudo do framework Vue ( não finalizado )</p>
                 </div>               
             </button>
             
             <button @click="goinTo('https://affectionate-curie-8e8552.netlify.app')" class="w-[22rem] h-28 p-3 flex flex-row bg-white rounded-2xl shadow-lg">               
                <div class="w-[20rem] text-left space-y-2">
                     <h3 class="font-bold text-[#3F3F46] flex flex-row space-x-2 "><span>Lista telefônica</span>  <img src="@/assets/icon/link.svg" alt="link" class="w-4"> </h3>
-                    <p class="text-[#3F3F46]">Aplicação desenvolvida como estudo do fremework Vue</p>
+                    <p class="text-[#3F3F46]">Aplicação desenvolvida como estudo do framework Vue</p>
                 </div>               
             </button>
             
