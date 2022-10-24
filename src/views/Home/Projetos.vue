@@ -9,28 +9,29 @@
             <button @click="goinTo('https://dreamy-mcnulty-a91c1b.netlify.app')" class="w-[22rem] h-28 p-3 flex flex-row bg-white rounded-2xl shadow-lg">               
                <div class="w-[20rem] text-left space-y-2">
                     <h3 class="font-bold text-[#3F3F46] flex flex-row space-x-2 "><span>LoopStudios</span>  <img src="@/assets/icon/link.svg" alt="link" class="w-4"> </h3>
-                    <p class="text-[#3F3F46]">Aplicação desenvolvida como desafio criado pelo site Frontend Mentor</p>
+                    <p class="text-[#3F3F46]">Aplicação desenvolvida como desafio criado pelo site Frontend Mentor.</p>
                 </div>               
             </button>
             
             <button @click="goinTo('https://geekvest.netlify.app')" class="w-[22rem] h-28 p-3 flex flex-row bg-white rounded-2xl shadow-lg">               
                <div class="w-[20rem] text-left space-y-2">
                     <h3 class="font-bold text-[#3F3F46] flex flex-row space-x-2 "><span>GeekVest</span>  <img src="@/assets/icon/link.svg" alt="link" class="w-4"> </h3>
-                    <p class="text-[#3F3F46]">Aplicação desenvolvida como estudo do framework Vue ( não finalizado )</p>
+                    <p class="text-[#3F3F46]">Aplicação desenvolvida como estudo do framework Vue ( não finalizado ).</p>
                 </div>               
             </button>
             
             <button @click="goinTo('https://affectionate-curie-8e8552.netlify.app')" class="w-[22rem] h-28 p-3 flex flex-row bg-white rounded-2xl shadow-lg">               
                <div class="w-[20rem] text-left space-y-2">
                     <h3 class="font-bold text-[#3F3F46] flex flex-row space-x-2 "><span>Lista telefônica</span>  <img src="@/assets/icon/link.svg" alt="link" class="w-4"> </h3>
-                    <p class="text-[#3F3F46]">Aplicação desenvolvida como estudo do framework Vue</p>
+                    <p class="text-[#3F3F46]">Aplicação desenvolvida como estudo do framework Vue.</p>
                 </div>               
             </button>
             
-            <button class="w-[22rem] h-28 p-3 flex justify-center items-center flex-row bg-white rounded-2xl shadow-lg">               
-               <div class="">
-                    <img src="@/assets/icon/spinner.svg" class="w-16 animate-spin-slow">
-                </div>               
+            <button @click="goinTo('https://todovuephp.000webhostapp.com/')" class="w-[22rem] h-28 p-3 flex justify-center items-center flex-row bg-white rounded-2xl shadow-lg">               
+                <div class="w-[20rem] text-left space-y-2">
+                    <h3 class="font-bold text-[#3F3F46] flex flex-row space-x-2 "><span>Todo-list</span>  <img src="@/assets/icon/link.svg" alt="link" class="w-4"> </h3>
+                    <p class="text-[#3F3F46]">Aplicação desenvolvida como estudo do framework Vue, Tailwind e MySQL.</p>
+                </div>                   
             </button>
 
         </div>
