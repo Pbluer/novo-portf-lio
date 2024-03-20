@@ -4,7 +4,7 @@
   lg:h-[45rem]
   ">
 
-  <img src="@/assets/sobre.svg" class="mb-[10rem] w-[20rem]
+  <img src="@/assets/sobre.png" class="mb-[10rem] w-[20rem]
     md:hidden
     lg:w-[25rem] lg:mb-0 lg:mx-[6rem]
     lg:block"
@@ -18,8 +18,12 @@
     <h3 class="font-bold text-white mx-10
       md:mx-0 md:w-[30rem]
       lg:w-[30rem]">
-      Estou cursando o último semestre da faculdade de tecnologia em Análise e Desenvolvimento de Sistema pela faculdade Unopar e
-      atualmente trabalho como programador Fullstrack PHP em uma empresa com sede no Rio de Janeiro. &nbsp;Estudo desenvolvimento Frontend de forma auto-didata desde o meu primeiro "Hello World".</h3>
+      Meu nome é Ramon Vasconcelos, possuo formação em Análise e Desenvolvimento de Sistemas e Pós em
+      Engenharia de Software pela Unopar. Tenho experiência como Analista e Desenvolvedor PHP, além de ter
+      atuado como Trainee. Possuo habilidades técnicas em HTML, CSS, JavaScript, Vue.js, PHP, MySQL, SQL Server, Node.js, Laravel e Jquery. 
+      Além disso, sigo realizando treinamentos complementares para aprimorar minhas habilidades. Sou dedicado, comprometido e estou
+      sempre em busca de novos desafios e aprendizados.. Estou em constante evolução e busco contribuir de
+      forma positiva em projetos e equipes de trabalho.</h3>
   </div> 
 
   </div>
