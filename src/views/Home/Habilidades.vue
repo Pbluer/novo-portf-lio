@@ -31,18 +31,13 @@
 
       <div class="flex flex-col bg-[#FFC727] w-[15rem] rounded-lg p-3 shadow">
         <ul>
-          <li class="font-bold text-white " >Inbrands S.A.</li>
-          <li class="text-white " >Cargo: Jovem aprendiz</li>
-          <li class="text-white " >Ano: 2019 - 2020</li>
-        </ul>
-        <ul>
           <li class="font-bold text-white " >NTL Nova Tecnologia LTDA</li>
-          <li class="text-white " >Cargo: Jovem aprendiz</li>
+          <li class="text-white " >Cargo: Trainee</li>
           <li class="text-white " >Ano: 2020 - 2021</li>
         </ul>
         <ul>
           <li class="font-bold text-white " >NTL Nova Tecnologia LTDA</li>
-          <li class="text-white " >Cargo: Programador PHP Jr</li>
+          <li class="text-white " >Cargo: Analista e Desenvolvedor PHP Jr</li>
           <li class="text-white " >Emprego atual</li>
         </ul>
       </div>
